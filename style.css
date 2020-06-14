@@ -22,6 +22,8 @@
 
 .cube {
     display: block;
-    padding: 20px;
+    padding: 18px;
     border: 1px solid;
+    min-width: 14px;
+    min-height: 22px;
 }
